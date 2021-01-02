@@ -1,1 +1,1 @@
-Just a personal website coded quickly 5 years ago.
+Just a personal website quickly coded 5 years ago.
