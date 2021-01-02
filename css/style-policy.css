@@ -1,0 +1,17 @@
+.privacy-text {
+  padding: 0px 200px;
+}
+.privacy-text h1 {
+  padding: 60px 0px 30px 0px;
+  font-weight: bold;
+}
+span.app-name {
+  font-weight: bold;
+}
+.privacy-text p {
+  padding: 15px 0px;
+  line-height: 24px;
+}
+.privacy-text h3 {
+  padding: 15px 0px;
+}
